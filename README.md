@@ -1,9 +1,7 @@
 # android_open_project
 
-<b>39,020 Randomly Selected Open Source Java Projects Repository</b>
+<b>38000 Open Source Java and Android Projects Repository</b>
 <b>Data Description </b>	
-This data set contains 39,020 open source Java projects from Github. 
-These projects are randomly selected. Their creation date is between 2014/01/01 and 2015/8/25.
 
 <b>Steps to Download the Dataset </b>
 
